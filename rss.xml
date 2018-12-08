@@ -1,0 +1,23 @@
+<rss version="2.0">
+<channel>
+<title> Just Style </title>
+<link>https://mvmaquillage.000webhostapp.com/</link>
+<description>
+Just Style is online fashion store for men, and sales clothes and shoes. We distribute for all over the world.
+</description>
+<item>
+<title>Products</title>
+<link>
+https://mvmaquillage.000webhostapp.com/products.html
+</link>
+<description>
+Follow us for more information about clothes, shoes and fashion products.
+</description>
+</item>
+<item>
+<title>Order</title>
+<link>https://mvmaquillage.000webhostapp.com/order.html</link>
+<description> You can order our products from your home. </description>
+</item>
+</channel>
+</rss>
